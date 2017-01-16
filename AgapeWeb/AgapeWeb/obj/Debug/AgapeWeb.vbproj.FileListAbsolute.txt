@@ -62,3 +62,13 @@ C:\Users\sepulvedasas\Google Drive\AgapeWeb\AgapeWeb\obj\Debug\AgapeWeb.vbproj.G
 C:\Users\sepulvedasas\Google Drive\AgapeWeb\AgapeWeb\obj\Debug\AgapeWeb.dll
 C:\Users\sepulvedasas\Google Drive\AgapeWeb\AgapeWeb\obj\Debug\AgapeWeb.xml
 C:\Users\sepulvedasas\Google Drive\AgapeWeb\AgapeWeb\obj\Debug\AgapeWeb.pdb
+C:\Users\js\Documents\GitHub\AgapeWeb\AgapeWeb\AgapeWeb\bin\AgapeWeb.dll.config
+C:\Users\js\Documents\GitHub\AgapeWeb\AgapeWeb\AgapeWeb\bin\AgapeWeb.dll
+C:\Users\js\Documents\GitHub\AgapeWeb\AgapeWeb\AgapeWeb\bin\AgapeWeb.pdb
+C:\Users\js\Documents\GitHub\AgapeWeb\AgapeWeb\AgapeWeb\bin\AgapeWeb.xml
+C:\Users\js\Documents\GitHub\AgapeWeb\AgapeWeb\AgapeWeb\obj\Debug\AgapeWeb.vbprojResolveAssemblyReference.cache
+C:\Users\js\Documents\GitHub\AgapeWeb\AgapeWeb\AgapeWeb\obj\Debug\AgapeWeb.Resources.resources
+C:\Users\js\Documents\GitHub\AgapeWeb\AgapeWeb\AgapeWeb\obj\Debug\AgapeWeb.vbproj.GenerateResource.Cache
+C:\Users\js\Documents\GitHub\AgapeWeb\AgapeWeb\AgapeWeb\obj\Debug\AgapeWeb.dll
+C:\Users\js\Documents\GitHub\AgapeWeb\AgapeWeb\AgapeWeb\obj\Debug\AgapeWeb.xml
+C:\Users\js\Documents\GitHub\AgapeWeb\AgapeWeb\AgapeWeb\obj\Debug\AgapeWeb.pdb
